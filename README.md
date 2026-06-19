@@ -53,5 +53,3 @@ The model successfully classified Iris flowers with excellent accuracy, demonstr
 
 ---
 
-## 👨‍💻 Author
-CodeAlpha Internship Project
